@@ -21,9 +21,9 @@
 .header2 .nav li:hover{  background: #464C5B url(../images/navi-plus.png) no-repeat 50% 32%; border-radius: 0; padding:46px 0 32px 0;}
 .tp-bullets.preview4 .bullet.selected { background: #f37421 !important;}
 .services-two .service-sec .icon{ background:#f37421;}
-.services-three .serv-sec{background: #f37421;}
-.services-three .serv-sec.serv-sec2{ background: #f37421;}
-.services-three .serv-sec.serv-sec3{background: #f37421;}
+.services-three .serv-sec{ background: #f37421; background-repeat: no-repeat; background-image: url(../images/services-central.jpg); background-size: cover; background-position: center top;}
+.services-three .serv-sec.serv-sec2{ background: #f37421; background-repeat: no-repeat; background-image: url(../images/services-central.jpg); background-size: cover; background-position: center top;}
+.services-three .serv-sec.serv-sec3{ background: #f37421; background-repeat: no-repeat; background-image: url(../images/services-central.jpg); background-size: cover; background-position: center top;}
 .welcome-two .welcome-detail ul li{ color: #f37421;}
 .footer-light .emergency i{ color:#02ADC9; }
 .footer-light .main-footer .title h5{   color: #f37421; border-bottom: solid 1px #f37421; }

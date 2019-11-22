@@ -453,7 +453,10 @@ img:hover {transition: background-color 0.5s ease; }
 .welcome-two{ padding:90px 0; margin:-1px 0 0 0;}
 .welcome-two .welcome-detail{}
 .welcome-two .welcome-detail ul{ margin:28px 0 0 0;}
-.welcome-two .welcome-detail ul li{   list-style: disc;  font-size: 22px;  margin: 0 0 0 18px;  float: left;  width: 30%;  line-height: 44px;}
+.welcome-two .welcome-detail ul li{font-size: 22px; float: left;  width: 33.33%;  line-height: 44px; background-color: #000; list-style: none; border-right: 10px solid #fff; padding-left: 15px;}
+.welcome-two .welcome-detail ul li:last-child{border-right: none;}
+.welcome-two .welcome-detail ul li a{color: #fff}
+.welcome-two .welcome-detail ul li.active{background-color: #f37421;}
 .welcome-two .welcome-detail ul li span{ font-size: 18px;  color: #222;}
 
 

@@ -211,6 +211,8 @@
 <!-- All Carousel -->
 <script type="text/javascript" src="js/owl.carousel.js"></script>
 
+<!-- Bootstrap -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <!-- All Scripts -->
 <script type="text/javascript" src="js/custom.js"></script>
